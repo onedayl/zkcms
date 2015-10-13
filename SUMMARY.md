@@ -6,4 +6,5 @@
 * [频道管理](chapter3.md)
 * [发布文章](chapter4.md)
 * [插入视频](chapter5.md)
+* 插入投票
 
