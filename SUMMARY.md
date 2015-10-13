@@ -11,5 +11,5 @@
 * [设置封面](chapter8.md)
 * [文章跳转](chapter9.md)
 * [搜索文章](chapter10.md)
-* Push文章
+* [Push文章](chapter11.md)
 
