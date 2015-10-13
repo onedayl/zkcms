@@ -1,4 +1,2 @@
-My Awesome Book
-=======
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# ZAKER 媒体后台操作手册
+最后更新日期：2015-10-08
