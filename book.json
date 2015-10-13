@@ -1,1 +1,7 @@
-{}
+{
+
+    // 图书标题和描述 (默认从README抽取)
+    "title": "ZAKER 媒体后台操作手册",
+    "description": null,
+    
+}
