@@ -1,3 +1,13 @@
-# First Chapter
+# 登录后台
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+1. 打开电脑上的浏览器：
+  * **不推荐**任何版本的 IE ，对后台插件支持不佳；
+  * **推荐** Chrome 或 Firefox；
+  * 其他浏览器未测试兼容性，如出现问题请更换。
+  
+
+2. 输入后台地址 ```rgcms.myzaker.com```；
+
+3. 用户名和初试密码都是名字的拼音，请务必在初次登录后修改密码；
+
+4. 输入密码后直接回车即可登录。
