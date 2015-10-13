@@ -12,5 +12,5 @@
 * [文章跳转](chapter9.md)
 * [搜索文章](chapter10.md)
 * [Push文章](chapter11.md)
-* 评论管理
+* [评论管理](chapter12.md)
 
