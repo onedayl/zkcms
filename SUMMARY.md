@@ -9,5 +9,5 @@
 * [插入投票](chapter6.md)
 * [置顶文章](chapter7.md)
 * [设置封面](chapter8.md)
-* 文章跳转
+* [文章跳转](chapter9.md)
 
