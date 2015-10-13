@@ -13,5 +13,5 @@
 * [搜索文章](chapter10.md)
 * [Push文章](chapter11.md)
 * [评论管理](chapter12.md)
-* 专题管理
+* [专题管理](chapter13.md)
 
