@@ -7,5 +7,5 @@
 * [发布文章](chapter4.md)
 * [插入视频](chapter5.md)
 * [插入投票](chapter6.md)
-* 置顶文章
+* [置顶文章](chapter7.md)
 
