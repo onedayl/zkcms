@@ -1,9 +1,14 @@
 /* CSS for website */
 .book .book-body .page-wrapper .page-inner section.normal img{
     display: block;
+    margin:1.6em 0;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ol ol, .book .book-body .page-wrapper .page-inner section.normal ol ul, .book .book-body .page-wrapper .page-inner section.normal ul ul{
+    margin:1.6em 0;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal ul li{
     margin-top:0;
-    margin-bottom:16px;
+    margin-bottom:0.8em;
 }
