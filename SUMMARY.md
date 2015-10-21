@@ -1,8 +1,9 @@
-# Summary
+ # Summary
 
-* [首页](README.md)
+* [ZAKER 媒体后台操作手册](README.md)
 * [登录后台](chapter1.md)
 * [账号管理](chapter2.md)
+* [实时监控](chapter15.md)
 * [频道管理](chapter3.md)
 * [发布文章](chapter4.md)
 * [插入视频](chapter5.md)
@@ -11,8 +12,9 @@
 * [设置封面](chapter8.md)
 * [文章跳转](chapter9.md)
 * [搜索文章](chapter10.md)
-* [Push文章](chapter11.md)
+* [push文章](chapter11.md)
 * [评论管理](chapter12.md)
 * [专题管理](chapter13.md)
 * [数据统计](chapter14.md)
+
 
