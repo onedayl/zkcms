@@ -2,3 +2,8 @@
 .book .book-body .page-wrapper .page-inner section.normal img{
     display: block;
 }
+
+.book .book-body .page-wrapper .page-inner section.normal ol ol, .book .book-body .page-wrapper .page-inner section.normal ol ul, .book .book-body .page-wrapper .page-inner section.normal ul ul{
+    margin-top:0;
+    margin-bottom:16px;
+}
