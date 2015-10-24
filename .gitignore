@@ -17,3 +17,6 @@ _book
 
 # Mac something
 .DS_Store
+
+# log files
+*.log
