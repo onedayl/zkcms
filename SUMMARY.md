@@ -1,6 +1,6 @@
  # Summary
 
-* [ZAKER媒体后台操作手册](README.md)
+* [介绍](README.md)
 * [登录后台](chapter01.md)
 * [账号管理](chapter02.md)
 * [实时监控](chapter15.md)
