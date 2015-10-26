@@ -2,8 +2,7 @@
     "title":"ZAKER媒体后台操作手册",
     "description":"rgcms",
     "plugins": [
-	"search-pro",
-	"gitbook-plugin-betterchinese"
+	"search-pro"
 	],
     "pluginsConfig": {
       "search-pro": {
@@ -15,7 +14,6 @@
         "sidebar": {
             "〓 打开媒体后台": "http://rgcms.myzaker.com"
         },
-
         "sharing": {
             "google": false,
             "facebook": false,
@@ -25,3 +23,4 @@
         }
     }
 }
+
