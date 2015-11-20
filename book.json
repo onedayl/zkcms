@@ -1,14 +1,19 @@
 {
     "title":"ZAKER媒体后台操作手册",
     "description":"rgcms",
+<<<<<<< HEAD
     "plugins": [],
+=======
+    "plugins": [
+	"search-pro"
+	],
+>>>>>>> dec730f96570831548bb1e9ba4bd7cf403a5d764
     "pluginsConfig": {
     },
     "links": {
         "sidebar": {
             "〓 打开媒体后台": "http://rgcms.myzaker.com"
         },
-
         "sharing": {
             "google": false,
             "facebook": false,
@@ -18,3 +23,4 @@
         }
     }
 }
+
