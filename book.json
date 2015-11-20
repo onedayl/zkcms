@@ -1,15 +1,8 @@
 {
     "title":"ZAKER媒体后台操作手册",
     "description":"rgcms",
-    "plugins": [
-	"search-pro",
-	"gitbook-plugin-betterchinese"
-	],
+    "plugins": [],
     "pluginsConfig": {
-      "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["小需求","基础建设"]
-      }
     },
     "links": {
         "sidebar": {
