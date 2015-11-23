@@ -2,13 +2,22 @@
     "title":"ZAKER媒体后台操作手册",
     "description":"rgcms",
     "plugins": [
+	"ga",
+	"-search",
 	"search-pro"
 	],
-    "pluginsConfig": {
-      "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["小需求","基础建设"]
-      }
+    "pluginsConfig":{
+        "ga":{
+            "token":"UA-69830079-1",
+            "configuration":{
+                "cookieName":"zkcms",
+                "cookieDomain":"rgcms.myzaker.ml"
+            }
+        },
+	"search-pro":{
+	    "cutWordLib":"nodejieba",
+	    "defineWord":["小需求","基础建设"]
+	}
     },
     "links": {
         "sidebar": {
