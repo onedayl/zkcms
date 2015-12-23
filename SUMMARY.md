@@ -6,6 +6,8 @@
 * [实时监控](chapter15.md)
 * [频道管理](chapter03.md)
 * [发布文章](chapter04.md)
+* [预览文章](chapter19.md)
+* [设置标签](chapter20.md)
 * [插入视频](chapter05.md)
 * [插入投票](chapter06.md)
 * [置顶文章](chapter07.md)
