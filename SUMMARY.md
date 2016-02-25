@@ -24,6 +24,7 @@
     * [专题文章](chapter13-3.md)
     * [专题轮播图](chapter13-4.md)
     * [专题小图](chapter13-5.md)
+    * [专题分享信息](chapter13-6.md)
 * [数据统计](chapter14.md)
     * [频道统计](chapter16.md)
     * [组织统计](chapter17.md)
