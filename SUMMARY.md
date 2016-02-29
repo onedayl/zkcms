@@ -9,6 +9,7 @@
 * [预览文章](chapter19.md)
 * [筛选文章](chapter21.md)
 * [设置标签](chapter20.md)
+* [插入图片](chapter22.md)
 * [插入视频](chapter05.md)
 * [插入投票](chapter06.md)
 * [置顶文章](chapter07.md)
