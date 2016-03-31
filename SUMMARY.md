@@ -16,6 +16,8 @@
 * [设置封面](chapter08.md)
 * [文章跳转](chapter09.md)
 * [搜索文章](chapter10.md)
+* [搜索文章](chapter10.md)
+* [推荐文章](chapter23.md)
 * [push文章](chapter11.md)
 * [评论管理](chapter12-1.md)
     * [评论管理入口](chapter12-2.md)
