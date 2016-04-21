@@ -32,5 +32,6 @@
     * [频道统计](chapter16.md)
     * [组织统计](chapter17.md)
     * [地区统计](chapter18.md)
+* [本地tab轮播图](chapter24.md)
 
 
