@@ -2,32 +2,26 @@
     "title":"ZAKER媒体后台操作手册",
     "description":"rgcms",
     "plugins": [
-	"-ga",
 	"-search",
-	"-search-pro"
-	],
+	"search-pro"
+    ],
     "pluginsConfig":{
-        "ga":{
-            "token":"UA-69830079-1",
-            "configuration":{
-                "cookieName":"zkcms",
-                "cookieDomain":"rgcms.myzaker.ml"
-            }
-        },
-    "search-pro":{
-        "cutWordLib":"nodejieba",
-        "defineWord":["小需求","基础建设"]
-        },
-    "sidebar": {
-        "〓 打开媒体后台": "http://rgcms.myzaker.com"
+    	"search-pro":{
+            "cutWordLib":"nodejieba",
+            "defineWord":["小需求","基础建设"]
         }
     },
-    "sharing": {
-        "google": false,
-        "facebook": false,
-        "twitter": false,
-        "weibo": false,
-        "all": false
+    "links":{
+        "sidebar": {
+             "〓 打开媒体后台": "http://rgcms.myzaker.com"
+        },
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
     }
 }
 
