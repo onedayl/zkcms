@@ -3,7 +3,7 @@
     "description":"rgcms",
     "plugins": [
 	"-search",
-	"search-pro"
+	"-search-pro"
     ],
     "pluginsConfig":{
     	"search-pro":{
