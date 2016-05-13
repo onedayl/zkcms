@@ -1,6 +1,7 @@
  # Summary
+ 
 
-* [首页 ㄟ(▔＾▔ㄟ)](README.md)
+* [首页](README.md)
 * [登录后台](chapter01.md)
 * [账号管理](chapter02.md)
 * [实时监控](chapter15.md)
@@ -18,7 +19,9 @@
 * [搜索文章](chapter10.md)
 * [搜索文章](chapter10.md)
 * [推荐文章](chapter23.md)
-* [push文章](chapter11.md)
+* [push](chapter11.md)
+    * [push文章](chapter11-1.md)
+    * [push专题](chapter11-2.md)
 * [评论管理](chapter12-1.md)
     * [评论管理入口](chapter12-2.md)
     * [评论管理操作](chapter12-3.md)
