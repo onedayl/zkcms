@@ -13,6 +13,7 @@
 * [插入图片](chapter22.md)
 * [插入视频](chapter05.md)
 * [插入投票](chapter06.md)
+* [插入VR](chapter25.md)
 * [置顶文章](chapter07.md)
 * [设置封面](chapter08.md)
 * [文章跳转](chapter09.md)
