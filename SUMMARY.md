@@ -37,5 +37,6 @@
     * [组织统计](chapter17.md)
     * [地区统计](chapter18.md)
 * [本地tab轮播图](chapter24.md)
+* [图文直播](chapter26.md)
 
 

@@ -1,7 +1,8 @@
 # 更新记录
 
 ##2016年6月
-- 新增：[插入VR](chatper25.html)
+- 新增：[图文直播](chapter26.html)
+- 新增：[插入VR](chapter25.html)
 
 ##2016年5月
 - 新增：[push专题](chapter11-2.html)

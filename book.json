@@ -1,5 +1,5 @@
 {
-    "title":"ZAKER媒体后台操作手册",
+    "title":"ZAKER",
     "description":"rgcms",
     "plugins": [
 	"-search",
@@ -13,7 +13,8 @@
     },
     "links":{
         "sidebar": {
-             "〓 打开媒体后台": "http://rgcms.myzaker.com"
+             "〓 媒体后台": "http://rgcms.myzaker.com",
+             "▲ 社区后台":"https://disvc.myzaker.com/"
         },
         "sharing": {
             "google": null,
