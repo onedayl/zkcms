@@ -1,5 +1,5 @@
  # Summary
- 
+
 
 * [首页](README.md)
 * [登录后台](chapter01.md)
@@ -17,9 +17,11 @@
 * [置顶文章](chapter07.md)
 * [设置封面](chapter08.md)
 * [文章跳转](chapter09.md)
+* [文章正文跳转](chapter28.md)
 * [搜索文章](chapter10.md)
 * [搜索文章](chapter10.md)
 * [推荐文章](chapter23.md)
+* [敏感停用文章](chapter27.md)
 * [评论管理](chapter12-1.md)
     * [评论管理入口](chapter12-2.md)
     * [评论管理操作](chapter12-3.md)
@@ -38,5 +40,3 @@
     * [地区统计](chapter18.md)
 * [本地tab轮播图](chapter24.md)
 * [图文直播](chapter26.md)
-
-

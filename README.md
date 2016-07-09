@@ -1,7 +1,9 @@
 # 更新记录
 
 ##2016年6月
+- 新增：[文章正文跳转](chapter28.html)
 - 修改：[专题轮播图](chapter13-4.html) 和 [专题小图](chapter13-5.html)支持打开专题、频道和直播 3 种新类型
+- 新增：[敏感停用文章](chapter27.html)
 - 新增：[图文直播](chapter26.html)
 - 新增：[插入VR](chapter25.html)
 

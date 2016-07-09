@@ -23,4 +23,6 @@ _book
 # log files
 *.log
 
+vr*.pdf
+
 
